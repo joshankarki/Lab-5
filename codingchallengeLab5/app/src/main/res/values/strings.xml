@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">codingchallengeLab5</string>
+    <string name="add_item">Add Item</string>
+    <string name="cheese">Cheese</string>
+    <string name="banana">Banana</string>
+    <string name="peach">Peach</string>
+    <string name="cauli">Cauliflower</string>
+    <string name="broccoli">Broccoli</string>
+    <string name="apple">Apple</string>
+    <string name="mango">Mango</string>
+    <string name="sausage">Sausage</string>
+    <string name="Milk">Milk</string>
+    <string name="water">Water</string>
+    <string name="add_item_label">Add Item</string>
+</resources>
